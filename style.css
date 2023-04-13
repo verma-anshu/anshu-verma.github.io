@@ -366,31 +366,31 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .css::before{
-    width: 60%;
+    width: 80%;
 }
 .skills-content .right .js::before{
-    width: 50%;
+    width: 100%;
 }
 .skills-content .right .bootstrap::before{
-    width: 70%;
+    width: 80%;
 }
 .skills-content .right .clang::before{
-    width: 70%;
+    width: 85%;
 }
-.skills-content .right .php::before{
-    width: 50%;
+.skills-content .right .react::before{
+    width: 95%;
 }
-.skills-content .right .python::before{
-    width: 60%;
+.skills-content .right .node::before{
+    width: 90%;
 }
-.skills-content .right .java::before{
-    width: 50%;
+.skills-content .right .express::before{
+    width: 90%;
 }
-.skills-content .right .django::before{
-    width: 50%;
+.skills-content .right .mongo::before{
+    width: 90%;
 }
 .skills-content .right .mysql::before{
-    width: 70%;
+    width: 80%;
 }
 
 /* teams section styling */
